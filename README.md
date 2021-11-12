@@ -5,8 +5,9 @@
 
 🎨I love Full-Stack development, i'm passionate about designing friendly interfaces for the user and useful tools that make life easier. I pay a lot of attention to little details because I believe they make the difference.
 
-📋<a href="https://portfolio-matias-f.vercel.app/"> My Portfolio </a> 📋
-<a href="https://drive.google.com/file/d/10juNP-gO9wOZZdTBYz6aiej8FbYhr5lp/view?usp=sharing">My Cv</a>
+💼 <a href="https://portfolio-matias-f.vercel.app/"> My Portfolio </a> 💼
+<br/>
+📋 <a href="https://drive.google.com/file/d/10juNP-gO9wOZZdTBYz6aiej8FbYhr5lp/view?usp=sharing">My Cv</a> 📋
 
 CONTACT ME!📲 If you would like to know more about me feel free to send me a message at matife003@gmail.com! 🤗📧
 
